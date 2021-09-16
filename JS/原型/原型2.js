@@ -20,4 +20,7 @@ console.log(Person.prototype.constructor ==  Person)    // 原型对象的constr
 console.log(person1.__proto__ == Person.prototype)      // 实例化对象__proto__指向原型对象
 
 
-
+// isPrototypeOf()
+// Obejct.getPrototypeOf()
+// Object.setPrototypeOf()
+// Object.create()  
